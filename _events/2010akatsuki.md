@@ -4,15 +4,21 @@ jp_title: 暁のゴールデン・スピリット
 news_link: https://live-a-hero.jp/info/692
 event_start_time: 2020-10-16T20:00:00+09
 event_end_time: 2020-11-13T20:00:00+09
-farm_start_time: 2020-10-16T20:00:00+09
-farm_end_time: 2020-11-06T20:00:00+09
-sales_start_time: 2020-10-16T20:00:00+09
-sales_end_time: 2020-11-06T20:00:00+09
 ---
 
-
-
 TODO: event bonus table for free quest and sales
+## Event Details
+Live A Hero's First Event, together with the event a new hero banner is also released which include Barrel(Hero), Gomeisa(Hero), Barrel(Sidekick), and Gomeisa(Sidekick).<br>
+The event has event specific free quest and sales, with bonus using the banner unit<br>
+Here is the banner unit bonus:<br>
+| Free Quest |              |             |               | Sales      |               |
+|------------|--------------|-------------|---------------|------------|---------------|
+| <b>Hero    | <b>+Bonus (%)| <b>Sidekick | <b>+Bonus (%) | <b>Hero    | <b>+Bonus (%) |
+| Gomeisa    | 30           | Gomeisa     | 10            | Gomeisa    | 25            |
+| Barrel     | 30           | Barrel      | 10            | Barrel     | 25            |
+<br>
+Note: Support unit (the one you borrow from other player) doesn't give any bonus in free quest
+<br>
 
 ## Event Shop
 
